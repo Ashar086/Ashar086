@@ -6,7 +6,7 @@
 ###
 - 🌱 I’m currently learning Generative AI *NLP , Computer vision*
 
-- 👨‍💻 All of my projects are available at *[[https://github.com/Ashar086]]*
+- 👨‍💻 All of my projects are available at *[https://github.com/Ashar086]*
 
 - 💬 Ask me about *AI*
 
@@ -15,7 +15,7 @@
 - ⚡ Fun fact *I am lazy ambitious Guy*
 
 ## 🌐 Socials:
-[![LinkedIn]([https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white](https://media.licdn.com/dms/image/v2/D4D03AQF_uoTvXkTJzg/profile-displayphoto-shrink_400_400/B4DZQ2jhzRHwAk-/0/1736082071281?e=1745452800&v=beta&t=upxmWbjNmhS_Q8Pq_Zhvn-a1bZz_IL5XsviJM9JVKPs))](www.linkedin.com/in/muhammad-ashar-ishfaq) 
+[![LinkedIn]([[https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white](https://media.licdn.com/dms/image/v2/D4D03AQF_uoTvXkTJzg/profile-displayphoto-shrink_400_400/B4DZQ2jhzRHwAk-/0/1736082071281?e=1745452800&v=beta&t=upxmWbjNmhS_Q8Pq_Zhvn-a1bZz_IL5XsviJM9JVKPs](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngmart.com%2Fimage%2F318902&psig=AOvVaw24DRoObr1paNEM-va43goM&ust=1739801069373000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCLDL2aWuyIsDFQAAAAAdAAAAABAJ))][(www.linkedin.com/in/muhammad-ashar-ishfaq)]
 
 # 💻 Tech Stack:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
